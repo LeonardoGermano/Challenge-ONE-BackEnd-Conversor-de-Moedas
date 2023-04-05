@@ -1,5 +1,5 @@
-# Conversor de Moedas
-##Challenge ONE Back End-Java
+# Conversor de Moedas e Temperatura
+## Challenge ONE Back End-Java
 
 O programa, trata-se de um desafio proposto pela Alura, através do projeto Oracle Next Education -  ONE.
 
